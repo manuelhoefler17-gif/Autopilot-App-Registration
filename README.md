@@ -51,3 +51,8 @@ With this tool, an admin can quickly:
 - create the required app registration for Autopilot,
 - assign the needed Graph application permission,
 - and generate ready-to-run upload scripts (including an EXE variant) for client-side usage.
+
+
+Thanks to @FlorianSLZ 
+https://scloud.work/autopilot-registration-app/
+https://github.com/FlorianSLZ/scloud/blob/main/Windows%20Autopilot/Autopilot-Registration_viaAppReg-UserInteraction.ps1
